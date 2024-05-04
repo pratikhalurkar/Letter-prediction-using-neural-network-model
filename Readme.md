@@ -1,18 +1,9 @@
-Letter Prediction
+# Letter Prediction using neural network model and KNN
 
-Pratik Amol Halurkar
-
-Module 5 assignment
-
-ALY6020: Predictive Analytics (CRN: 20356)
-
-Prof. Justin Grosz
-
-3/24/2024
 
 # Introduction
 
-In this assignment, we will analyze a dataset containing letters. The
+In this project, we will analyze a dataset containing letters. The
 school is exploring the possibility of using a writing test to assess
 students' motor skills at a young age. As part of this effort, students
 are asked to write numbers, and our task is to build a predictive model
